@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\DESAFIO 2 TABDMD\DESAFIO 2 TABDMD\bin\Model.asdatabase
+C:\Users\ADMIN\source\repos\DESAFIO 2 TABDMD\DESAFIO 2 TABDMD\bin\Model.deploymenttargets
+C:\Users\ADMIN\source\repos\DESAFIO 2 TABDMD\DESAFIO 2 TABDMD\bin\Model.deploymentoptions
+C:\Users\ADMIN\source\repos\DESAFIO 2 TABDMD\DESAFIO 2 TABDMD\obj\Development\DESAFIO 2 TABDMD.smproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\DESAFIO 2 TABDMD\DESAFIO 2 TABDMD\obj\Development\DESAFIO 2 TABDMD.smproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DESAFIO 2 TABDMD\DESAFIO 2 TABDMD\obj\Development\Model.asdatabase
+C:\Users\ADMIN\source\repos\DESAFIO 2 TABDMD\DESAFIO 2 TABDMD\obj\Development\Model.deploymentoptions
+C:\Users\ADMIN\source\repos\DESAFIO 2 TABDMD\DESAFIO 2 TABDMD\obj\Development\Model.deploymenttargets
